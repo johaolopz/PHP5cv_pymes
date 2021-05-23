@@ -1,0 +1,29 @@
+#a {
+   float: left;
+}
+
+#b {
+	float: left;
+	margin-left: 5em;
+}
+
+#c {
+	visibility: hidden;
+   clear:both;
+}
+
+#files {
+	width: 130px;
+}
+
+#list {
+	margin: 0px;
+	height: 125px;
+	width: 130px;
+}
+
+.thumb{
+     width: 100%;
+     height: 125px;
+     width: 130px;
+}
